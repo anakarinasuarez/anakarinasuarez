@@ -30,7 +30,8 @@ If you're interested in my work or have an opportunity to discuss, I'm just a cl
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-ana-karina-suárez-gonzález)
 -  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/anakarinasuarez)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suarez.anakarina@hotmail.com)
-- [![Phone](https://img.shields.io/badge/Phone-2BA848?style=flat&logo=apple&logoColor=white)](tel:+34698347608)
+
+
 
 
 Or just say 👋 **Hi**!
