@@ -1,6 +1,6 @@
-# Hello, I'm Ana Karina Suárez!
+# Hi, I'm Ana Karina Suárez!
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me 
 
 I am a passionate developer, driven by curiosity and a constant desire to innovate and progress in the dynamic world of technology. This field has been the stage for awakening my innate talents and abilities, revealing capabilities that lay hidden within me. I am fascinated by the entire process of creating technological products, from initial design to final implementation, transforming ideas into tangible realities.
 
@@ -32,7 +32,7 @@ If you're interested in my work or have an opportunity to discuss, I'm just a cl
 - **Email**: [suarez.anakarina@hotmail.com](mailto:suarez.anakarina@hotmail.com)
 - **Phone**: <a href="tel:+34698347608">+34 698 34 76 08</a>
 
-Or just say 👋 **Hello**!
+Or just say 👋 **Hi**!
 
 ---
 
