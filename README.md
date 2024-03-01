@@ -1,7 +1,8 @@
 
-# Hi, I'm Ana Karina Suárez!
+![Banner](https://github.com/anakarinasuarez/anakarinasuarez/assets/90840843/49d789a2-81c2-4184-946a-af43920637ae)
 
-![Ana Karina Suárez](https://github.com/anakarinasuarez/anakarinasuarez/blob/main/Sin%20ti%CC%81tulo%20(1).gif?raw=true)
+# Hi, I'm Ana Karina Suárez!  
+
 
 ## 👩🏻‍💻 About Me 
 I am a passionate developer Frontend 💻, driven by curiosity 🤔 and a constant desire to innovate and progress in the dynamic world of technology 🚀. This field has been the stage for awakening my innate talents and abilities, revealing capabilities that lay hidden within me. I am fascinated by the entire process of creating technological products, from initial design to final implementation, transforming ideas into tangible realities.
