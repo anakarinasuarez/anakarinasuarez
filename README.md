@@ -23,6 +23,8 @@ Through my work, I seek not only to advance in my career but also to contribute 
 - Zustand
 - Git
 - GitHub
+- Python
+- Django
 
 ## 📚 Continuous Learning
 
