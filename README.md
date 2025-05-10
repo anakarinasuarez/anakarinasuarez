@@ -23,8 +23,12 @@ Through my work, I seek not only to advance in my career but also to contribute 
 - Zustand
 - Git
 - GitHub
-- Python
-- Django
+- Jest
+- HTML
+- CSS
+- JavaScript
+- API REST
+
 
 ## 📚 Continuous Learning
 
